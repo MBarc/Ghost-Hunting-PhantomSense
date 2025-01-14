@@ -54,24 +54,6 @@ This dual confirmation system helps minimize false positives and ensures reliabl
 
 ---
 
-## Setup and Installation
-
-### Hardware Assembly
-1. Place the **TTP223B Capacitive Touch Sensor** between the two front DHT22 sensors.
-2. Position the third DHT22 sensor at the back of the device to capture ambient temperature.
-3. Connect the sensors and touch module to your microcontroller.
-4. Power the device.
-
-### Software Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/ghost-hunting-phantomsense.git
-   ```
-2. Install required libraries for your microcontroller (e.g., DHT sensor and touch sensor libraries).
-3. Upload the code to your microcontroller using your preferred IDE (e.g., Arduino IDE).
-
----
-
 ## Usage
 1. Power on the device.
 2. Monitor output signals from the device to identify detections.
