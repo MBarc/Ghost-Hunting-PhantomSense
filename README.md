@@ -18,13 +18,6 @@ This repository contains the code and documentation for a custom-built **Phantom
 
 ## Features
 
-### Multi-Sensor Detection
-1. **DHT22 Sensors**:
-   - Two sensors located near the front of the device.
-   - One sensor at the back of the device to monitor ambient environmental temperature.
-2. **TTP223B Capacitive Touch Sensor**:
-   - Positioned between the two front DHT22 sensors to detect physical interaction.
-
 ### Dual Confirmation Mechanism
 The device confirms the presence of a spirit through two simultaneous criteria:
 1. **Touch Detection**:
