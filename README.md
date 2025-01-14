@@ -62,11 +62,6 @@ This dual confirmation system helps minimize false positives and ensures reliabl
 
 ---
 
-## Contributing
-Contributions are welcome! If you have ideas for improvement or additional features, feel free to open an issue or submit a pull request.
-
----
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
