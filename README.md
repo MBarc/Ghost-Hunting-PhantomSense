@@ -29,13 +29,18 @@ This dual confirmation system helps minimize false positives and ensures reliabl
 
 ---
 
-## Hardware Setup
-- **DHT22 Sensors** (x3): For temperature and humidity readings.
-  - 2 sensors near the front for localized temperature measurement.
-  - 1 sensor at the back for baseline environmental temperature.
-- **TTP223B Capacitive Touch Sensor**: To detect interaction with the device.
-- **Microcontroller**: Compatible with the provided code (e.g., Arduino, ESP32, Raspberry Pi).
-- **Power Source**: Depending on the microcontroller used.
+## Hardware
+
+### Parts List
+- 3x DHT22 Sensors
+- 1x 9V Battery
+- 1x 9V Bateery Case
+- 1x TTP223B Capacitive Touch Sensor
+- 1x Arduino Nano
+- 2x Green LEDs
+- 2x 220 Ohm Resistors
+
+### Hardware Setup
 ![alt text](https://github.com/MBarc/Ghost-Hunting-PhantomSense/blob/main/PhantomSenseDiagram.png)
 ---
 
