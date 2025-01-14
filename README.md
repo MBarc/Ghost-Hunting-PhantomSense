@@ -50,7 +50,7 @@ This dual confirmation system helps minimize false positives and ensures reliabl
 1. The **TTP223B Capacitive Touch Sensor** detects physical interaction, suggesting potential spirit contact.
 2. The device compares temperature readings from the two front DHT22 sensors against the back DHT22 sensor:
    - If the front sensors both register a temperature colder than the environment (detected by the back sensor), it confirms the anomaly.
-3. When both conditions (touch and temperature anomaly) are met, the device signals detection (e.g., via LED, buzzer, or serial output).
+3. When both conditions (touch and temperature anomaly) are met, the device signals detection via LED.
 
 ---
 
