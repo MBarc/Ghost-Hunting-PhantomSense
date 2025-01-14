@@ -8,6 +8,7 @@ This repository contains the code and documentation for a custom-built **Phantom
 
 ## Table of Contents
 - [How It Works](#how-it-works)
+- [Features](#features)
 - [Hardware](#hardware)
 - [Software](#software)
 - [Setup and Installation](#setup-and-installation)
