@@ -15,6 +15,11 @@ This repository contains the code and documentation for a custom-built **Phantom
 - [License](#license)
 
 ---
+## How It Works
+
+There’s a hypothesis suggesting that the manifestation of a spirit causes a localized drop in temperature. To test this, the design leverages a TTP223B touch sensor in conjunction with three DHT22 temperature sensors. When a spirit interacts with the TTP223B, the two DHT22 sensors positioned nearby should register a temperature drop. A third DHT22 sensor, placed on the opposite side of the device, monitors the room's ambient temperature. By comparing these readings, we can determine if the drop in temperature near the TTP223B is anomalous. If the TTP223B registers contact and the temperature near the front two DHT22 sensors is significantly lower than the ambient room temperature, it suggests possible interaction by a spirit.
+
+---
 
 ## Features
 
@@ -42,12 +47,6 @@ This dual confirmation system helps minimize false positives and ensures reliabl
 
 ### Hardware Setup
 ![alt text](https://github.com/MBarc/Ghost-Hunting-PhantomSense/blob/main/PhantomSenseDiagram.png)
----
-
-## How It Works
-
-There’s a hypothesis suggesting that the manifestation of a spirit causes a localized drop in temperature. To test this, the design leverages a TTP223B touch sensor in conjunction with three DHT22 temperature sensors. When a spirit interacts with the TTP223B, the two DHT22 sensors positioned nearby should register a temperature drop. A third DHT22 sensor, placed on the opposite side of the device, monitors the room's ambient temperature. By comparing these readings, we can determine if the drop in temperature near the TTP223B is anomalous. If the TTP223B registers contact and the temperature near the front two DHT22 sensors is significantly lower than the ambient room temperature, it suggests possible interaction by a spirit.
-
 ---
 
 ## Usage
