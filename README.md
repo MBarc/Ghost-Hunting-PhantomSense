@@ -43,7 +43,7 @@ This dual confirmation system helps minimize false positives and ensures reliabl
 - **TTP223B Capacitive Touch Sensor**: To detect interaction with the device.
 - **Microcontroller**: Compatible with the provided code (e.g., Arduino, ESP32, Raspberry Pi).
 - **Power Source**: Depending on the microcontroller used.
-
+![alt text](https://github.com/MBarc/Ghost-Hunting-PhantomSense/blob/main/PhantomSenseDiagram.png)
 ---
 
 ## How It Works
