@@ -51,9 +51,7 @@ This dual confirmation system helps minimize false positives and ensures reliabl
 
 ## Usage
 1. Power on the device.
-2. Monitor output signals from the device to identify detections.
-   - Example: LED blinking, buzzer sound, or serial console messages.
-3. Observe the environment and validate detection events.
+2. Monitor the green LEDs on the device. You have a positive reading when both LEDs are lit up.
 
 ---
 
