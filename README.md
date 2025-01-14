@@ -12,6 +12,7 @@ This repository contains the code and documentation for a custom-built **Phantom
 - [Hardware](#hardware)
 - [Usage](#usage)
 - [License](#license)
+- [Disclaimer](#disclaimer)
 
 ---
 ## How It Works
