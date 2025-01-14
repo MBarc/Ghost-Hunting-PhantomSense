@@ -45,7 +45,7 @@ This dual confirmation system helps minimize false positives and ensures reliabl
 - 2x 220 Ohm Resistors
 
 ### Hardware Setup
-![alt text](https://github.com/MBarc/Ghost-Hunting-PhantomSense/blob/main/PhantomSenseDiagram.png)
+![alt text](https://github.com/MBarc/Ghost-Hunting-PhantomSense/blob/main/diagram.png)
 ---
 
 ## Usage
