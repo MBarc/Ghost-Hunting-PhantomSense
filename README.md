@@ -12,7 +12,6 @@ This repository contains the code and documentation for a custom-built **Phantom
 - [Hardware](#hardware)
 - [Usage](#usage)
 - [License](#license)
-- [Disclaimer](#disclaimer)
 
 ---
 ## How It Works
@@ -57,8 +56,3 @@ This dual confirmation system helps minimize false positives and ensures reliabl
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Disclaimer
-This device is built for entertainment and experimental purposes only. The detection of spirits or paranormal activity has no scientific basis and should be approached with curiosity and skepticism.
