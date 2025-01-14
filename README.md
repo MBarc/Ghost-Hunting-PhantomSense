@@ -34,7 +34,7 @@ This dual confirmation system helps minimize false positives and ensures reliabl
 ### Parts List
 - 3x DHT22 Sensors
 - 1x 9V Battery
-- 1x 9V Bateery Case
+- 1x 9V Battery Case
 - 1x TTP223B Capacitive Touch Sensor
 - 1x Arduino Nano
 - 2x Green LEDs
