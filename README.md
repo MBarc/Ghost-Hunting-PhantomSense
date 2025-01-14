@@ -36,7 +36,7 @@ This dual confirmation system helps minimize false positives and ensures reliabl
 
 ---
 
-## Hardware Components
+## Hardware Setup
 - **DHT22 Sensors** (x3): For temperature and humidity readings.
   - 2 sensors near the front for localized temperature measurement.
   - 1 sensor at the back for baseline environmental temperature.
