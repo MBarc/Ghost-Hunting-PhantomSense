@@ -32,6 +32,11 @@ The device confirms the presence of a spirit through two simultaneous criteria:
 This dual confirmation system helps minimize false positives and ensures reliable detection.
 
 ---
+## Software
+
+### Logic Flow Chart
+![alt text](https://github.com/MBarc/Ghost-Hunting-PhantomSense/blob/main/PhantomSenseCodeFlowChart.png)
+---
 
 ## Hardware
 
