@@ -23,7 +23,7 @@ There’s a hypothesis suggesting that the manifestation of a spirit causes a lo
 
 To see the actual code used for this project, please reference the phantomSense.ino file.
 
-#### Logic Flow Chart
+#### Code Logic Flow Chart
 ![alt text](https://github.com/MBarc/Ghost-Hunting-PhantomSense/blob/main/PhantomSenseCodeFlowChart.png)
 ---
 
